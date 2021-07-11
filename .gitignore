@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Apple Files
+.DS_Store
+
+Folders and Files
+Portfolio Templates from Module 10/
+
 # C extensions
 *.so
 
